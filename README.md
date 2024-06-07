@@ -1,4 +1,8 @@
 # Algoritmo-Gestão-de-Obra
+
+VIZUALIZE EM FORMATO DE CÓDIGO PARA UM MELHOR ENTENDIMENTO DE IDENTAÇÕES
+DE ATIVIDADES
+
 Esse algoritmo simula uma gestão de obra, codificado em C
 Me serviu como um bom exercício de struct, funções e ponteiro
 
